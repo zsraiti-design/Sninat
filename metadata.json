@@ -1,0 +1,8 @@
+{
+  "name": "Remix  Sninat - Soins Dentaires Près de Vous",
+  "description": "Plateforme moderne de prise de rendez-vous et soins dentaires au Maroc : trouvez un chirurgien-dentiste qualifié près de chez vous en toute sérénité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

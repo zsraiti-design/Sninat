@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Sninat",
+    "slug": "sninat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "../public/assets/aistudio/IMG_6592_dc166d2d.jpeg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "../public/assets/aistudio/IMG_6592_dc166d2d.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#F8FAFC"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "ma.sninat.app",
+      "infoPlist": {
+        "UIStatusBarStyle": "UIStatusBarStyleDarkContent"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "../public/assets/aistudio/IMG_6592_dc166d2d.jpeg",
+        "backgroundColor": "#F8FAFC"
+      },
+      "package": "ma.sninat.app"
+    },
+    "web": {
+      "favicon": "../public/assets/aistudio/IMG_6592_dc166d2d.jpeg"
+    }
+  }
+}

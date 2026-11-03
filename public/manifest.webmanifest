@@ -1,0 +1,27 @@
+{
+  "name": "Sninat - Écosystème Dentaire & Prothétique",
+  "short_name": "Sninat",
+  "description": "Plateforme moderne de prise de rendez-vous, gestion de cabinet dentaire et commandes pour prothésistes au Maroc.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0284C7",
+  "lang": "fr",
+  "dir": "auto",
+  "icons": [
+    {
+      "src": "/assets/aistudio/IMG_6592_dc166d2d.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/aistudio/IMG_6592_dc166d2d.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["medical", "health", "lifestyle"]
+}
